@@ -1,0 +1,9 @@
+{
+  "name": "x-auth",
+  "version": "0.1.0",
+  "description": "x auth module",
+  "main": "index.js",
+  "author": "fabio7maia",
+  "license": "MIT",
+  "private": false
+}
